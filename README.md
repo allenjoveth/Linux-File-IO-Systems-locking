@@ -76,10 +76,10 @@ int main() {
 }
 ```
 ## OUTPUT
-```
+
 ![WhatsApp Image 2024-05-08 at 15 11 10_b2b3bb31](https://github.com/allenjoveth/Linux-File-IO-Systems-locking/assets/139422287/784cc2db-860d-4120-8aaa-f230a3853559)
 
-```
+
 ## 2.To Write a C program that illustrates files locking
 ```
 #include <fcntl.h>
@@ -122,10 +122,10 @@ return 0;
 
 ```
 ## OUTPUT
-```
+
 ![WhatsApp Image 2024-05-08 at 15 11 10_9ee57292](https://github.com/allenjoveth/Linux-File-IO-Systems-locking/assets/139422287/5d06caaa-0fe8-4ec4-a5bd-43e4c3020f53)
 
-```
+
 
 # RESULT:
 The programs are executed successfully.
